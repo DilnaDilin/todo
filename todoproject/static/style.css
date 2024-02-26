@@ -1,0 +1,18 @@
+.banner{
+background-color:teal;
+height:100px;
+width:100%;
+margin-bottom:50px;
+text-align:bottom;
+
+}
+.banner-text{
+top:50px;
+color:white;
+background-color:gray;
+transform:transform;
+text-align:center;
+}
+.card{
+background-color:aqua;
+border:black 2px solid;}
